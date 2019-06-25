@@ -1,0 +1,51 @@
+
+
+
+
+
+img{
+    width: 250px;
+    border-radius: 6px;
+    margin-inline-start: 20px;
+}
+h1{
+    color:white;
+    font-family: Consolas,monaco,monospace; 
+    
+    margin: 0px;
+}
+
+h2{
+    font-size: 25px;
+    margin-left: 3px;
+
+}
+
+p{
+    margin-left: 6px;
+}
+
+h3{
+    font-size: 22px;
+}
+
+body{
+    font-family: Consolas,monaco,monospace; 
+    color:white; 
+    margin:0px;
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255), rgb(196, 196, 196))
+}
+
+div {
+background-color:rgba(177, 225, 255, 0.116);
+    border-width: 4px;
+  border-color: lightslategray;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 6px;
+}
+
+div:hover{
+    background-color: rgba(135, 207, 235, 0.281);
+    border-color: slategray;
+}
