@@ -63,7 +63,7 @@ function fetch() {
         }
 
     };
-    request.open('GET', 'https://fortnite-api.theapinetwork.com/store/get', '');
+    request.open('GET', 'https://fortnite-api.theapinetwork.com/upcoming/get', '');
     request.setRequestHeader('Authorization', '5db1ace6c5de388324981e80e4ce3cb8')
     request.send();
 
