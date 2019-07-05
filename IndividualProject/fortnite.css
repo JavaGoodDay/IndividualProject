@@ -1,0 +1,54 @@
+
+
+img{
+    width: 250px;
+    border-radius: 6px;
+    margin-inline-start: 20px;
+}
+h1{
+    color:rgb(0, 0, 0);
+    margin: 0px;
+}
+
+h2{
+    font-size: 35px;
+    margin-left: 3px;
+    
+}
+
+h3{
+    color: darkslategrey;
+}
+
+h4{
+    color: darkslategrey;
+}
+
+p{
+    margin-left: 6px;
+}
+
+
+
+body{
+    text-align: center;
+    font-family: Geneva,Tahoma,Verdana,sans-serif; 
+    color:rgb(0, 0, 0); 
+    margin:0px;
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255), rgb(196, 196, 196))
+}
+
+div {
+background-color:rgba(94, 94, 94, 0.116);
+    border-width: 4px;
+  border-color: lightslategray;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 6px;
+  max-width: 700px;
+}
+
+div:hover{
+    background-color: rgba(66, 66, 66, 0.281);
+    border-color: slategray;
+}
